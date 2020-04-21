@@ -28,3 +28,6 @@ São serviços que você utiliza diretamente pela internet, ou seja, são recurs
 
 Ao invés de precisar de uma máquina parruda, divide-se a carga de trabalho em vários servidores, processadores, etc.  
 Exemplo, computação em **cluster, você tem vários computadores conectados entre si, trabalhando em paralelo. Tendo um software dividindo o processamento entre esses diversos servidores.**
+
+* * *
+[Próxima página - Page 02](.../../../Page%2002/readme.md)
