@@ -38,19 +38,19 @@ topologia.
 
 ### **4. Com relação a redes de comunicação, julgue os itens a seguir.**
 
-I. Uma LAN (local area network) é uma rede local de computadores que tem abrangência física de poucos quilômetros, alta taxa de transferência de dados, baixa ocorrência de erros e sempre apresenta roteamento da informação.
-II. Uma MAN (metropolitan area network) é caracterizada por abranger uma região metropolitana de
+1. Uma LAN (local area network) é uma rede local de computadores que tem abrangência física de poucos quilômetros, alta taxa de transferência de dados, baixa ocorrência de erros e sempre apresenta roteamento da informação.
+2. Uma MAN (metropolitan area network) é caracterizada por abranger uma região metropolitana de
 determinada cidade.
-III. Uma WAN (wide area network) é uma rede geograficamente distribuída que engloba uma vasta região (estado, país, ou até mesmo continente).
-IV. Em uma WAN, geralmente existe o roteamento da informação. Esse serviço é transparente para o usuário final, uma vez que é de responsabilidade de uma concessionária de telecomunicações, proprietária e operadora da WAN.
+3. Uma WAN (wide area network) é uma rede geograficamente distribuída que engloba uma vasta região (estado, país, ou até mesmo continente).
+4. Em uma WAN, geralmente existe o roteamento da informação. Esse serviço é transparente para o usuário final, uma vez que é de responsabilidade de uma concessionária de telecomunicações, proprietária e operadora da WAN.
 
 A quantidade de itens certos é igual a:
 
-a. 0
-b. 1
-c. 2
-d. 3
-e. 4
+1. (0)
+2. (1)
+3. (2)
+4. (3)
+5. (4)
 
 ### **5. Sobre as principais características de um servidor Proxy Reverso, é INCORRETO afirmar que:**
 
@@ -63,11 +63,11 @@ conteúdo tornando o acesso mais rápido.
 
 ### **6. Quanto aos conceitos do Proxy Reverso, analise as afirmativas abaixo expostas em um seminário de segurança. Dê valores Verdadeiro (V) ou Falso (F) e assinale a alternativa que apresenta a sequência correta (de cima para baixo):**
 
-() Ele deve estar posicionado antes de um servidor Web, recebendo as requisições
+- [] Ele deve estar posicionado antes de um servidor Web, recebendo as requisições
 externas.
-()  O proxy reverso pode distribuir a carga para vários servidores, balanceando a
+- [] O proxy reverso pode distribuir a carga para vários servidores, balanceando a
 carga.
-() Ele não permite a possibilidade da otimização e compressão de conteúdo.
+- [] Ele não permite a possibilidade da otimização e compressão de conteúdo.
 
 1. V - V - V
 2. V - V - F
