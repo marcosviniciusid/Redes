@@ -21,7 +21,7 @@ No caso da rede local no primeiro exemplo de cache, não terá esse problema, pe
 * * *
 ## Proxy reverso
 
-O proxy direto ele serve para facilitar a vida do computador cliente, o sistema de cache e burlar a limitação geografica por exemplo.
+O proxy direto ele serve para facilitar a vida do computador cliente, o sistema de cache e burlar a limitação geográfica por exemplo.
 
 Já o servidor proxy reverso, também é um intermediário entre o cliente e servidor, só que é usado para facilitar a vida dos servidores e não mais do cliente, porém claro que ajuda o cliente também. 
 
