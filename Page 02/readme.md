@@ -42,4 +42,6 @@ Exemplo de de empresa que usa esse recurso. CloudFlare. Do ponto de vista do usu
 *Proxy reverso como servidor de cache*
 
 * * * 
-[Próxima página - Page 03](.../../../Page%2003/readme.md)
+* * * * 
+* [Página anterior - Page 01](../Page%2001/readme.md)
+* [Próxima página - Page 03](.../../../Page%2003/readme.md)

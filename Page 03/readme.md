@@ -39,5 +39,6 @@ VPN serve para acessar sites bloqueados? Isso é um conceito equivocado de VPN. 
 
 
 
-* * * 
-[Próxima página - Page 04](../Page%2004/readme.md)
+* * * * 
+* [Página anterior - Page 02](../Page%2002/readme.md)
+* [Próxima página - Page 04](../Page%2004/readme.md)
