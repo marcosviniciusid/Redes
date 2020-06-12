@@ -103,5 +103,5 @@ Base 10: 10d = 10
 Base 16 = 10h = 0x10
 
 * * *
-[Página anterior - Page 04](../Page%2004/readme.md)
-[Próxima página - Page 06](../Page%2006/readme.md)
+* [Página anterior - Page 04](../Page%2004/readme.md)
+* [Próxima página - Page 06](../Page%2006/readme.md)
