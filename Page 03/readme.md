@@ -5,9 +5,9 @@ Virtual Private Network (Rede privada virtual).
 
 Exemplo prático para entender:
 
-Vamos dizer que temos duas redes locais pertencentes a mesma empresa e queremos ligar essas duas redes; se tiverem em uma prédio ao lado do outro, isso é relativamente fácil. Mas, vamos supor que estejam distante e que a matriz da empresa esteja em São paulo e a filial em Manaus. 
+Vamos dizer que temos duas redes locais pertencentes a mesma empresa e queremos ligar essas duas redes; se tiverem em um prédio ao lado do outro, isso é relativamente fácil. Mas, vamos supor que estejam distante e que a matriz da empresa esteja em São Paulo e a filial em Manaus. 
 
-A maneira "antiga de se fazer isso" é contratando uma empresa de telecomunicações de longa distância. Porém é um sistema extremamente caro, pois é uma conexão dedicada, só pra essa empresa. Mas, é possível utilizar a internet pra fazer a conexão entre essas duas redes distantes baratiando muito esse custo. 
+A maneira "antiga de se fazer isso" era contratando uma empresa de telecomunicações de longa distância. Porém é um sistema extremamente caro, pois é uma conexão dedicada, só pra essa empresa. Mas, é possível utilizar a internet pra fazer a conexão entre essas duas redes distantes baratiando muito esse custo. 
 
 O problema de utilizar a internet é que ela é do tipo pública e todos os dados trafegados você não tem controle sobre eles, não tem controle por qual equipamento seus pacotes de dados vão passar e isso pode ser totalmente inseguro. Uma pessoa mal intensionada ou hacker pode ficar escutando e capturando os pacotes de dados abrindo e vendo o que está ali dentro. Assim entra a VPN.
 

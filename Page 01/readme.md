@@ -30,4 +30,5 @@ Ao invés de precisar de uma máquina parruda, divide-se a carga de trabalho em 
 Exemplo, computação em **cluster, você tem vários computadores conectados entre si, trabalhando em paralelo. Tendo um software dividindo o processamento entre esses diversos servidores.**
 
 * * *
-[Próxima página - Page 02](.../../../Page%2002/readme.md)
+* [Página anterior - Page 00](../README.md)
+* [Próxima página - Page 02](.../../../Page%2002/readme.md)
