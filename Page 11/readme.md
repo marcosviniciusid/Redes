@@ -1,6 +1,6 @@
 # Ordenação de bits
 
-![](../assets/ordenacao-bits.png)
+![](../Assets/ordenacao-bits.png)
 
 
 * * * 
